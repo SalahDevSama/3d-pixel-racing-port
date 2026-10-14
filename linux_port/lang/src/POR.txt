@@ -1,0 +1,114 @@
+Português
+Set.1 OK!
+Set.2 OK!
+Tempo de volta
+Carregando....
+Resultado final
+Corrida
+Resultados
+Escolha a pista
+Neve
+Chuva
+Neblina
+Noite
+Sol
+Normal
+Invertido
+3D Pixel Racing
+Campeonato
+Corrida rápida
+Capture a bandeira
+Perseguição
+Contra o relógio
+Menu principal
+Música na corrida
+ON
+OFF
+Pilotos
+Só jogadores
+Jogadores + CPU
+Voltas da corrida
+Voltas
+Dificuldade
+Fácil
+Médio
+Difícil
+Pit stop na corrida
+Opções
+Um jogador
+Dois jogadores
+Três jogadores
+Quatro jogadores
+Número de jogadores
+Jogador
+Escolha o piloto
+Escolha o câmbio
+Manual
+Automático
+Digite seu nome
+Caçador
+Alvo
+Escolha o carro
+Escolha a cor
+Voltar
+Set.
+Volta completa!
+CONTRAMÃO!
+Distância
+Recorde
+<BOX>
+o
+o
+o
+o
+tempo
+DANOS
+BATIDAS
+livre
+preso
+alvo
+o
+o
+o
+o
+Mph
+Classificação
+Nova pista liberada!
+Novo carro liberado!
+Novo piloto liberado!
+Avançar
+Escolha a direção
+Escolha o clima
+Escolha a pista
+Bloqueado!
+Indisponível
+em Perseguição
+velocidade
+aderência
+controle
+Abandonar?
+Continuar
+Ver replay
+VAI!
+O criminoso fugiu!
+Empate!
+Você venceu!
+Preso!
+Iniciar
+Escolha
+Caçador - Alvo
+Escolha a letra
+Escolha
+Trocar posição
+Sair do replay?
+Pontos
+Itália
+EUA
+Brasil
+Inglaterra
+Ilhas Salomão
+Tailândia
+Japão
+Egito
+Holanda
+China

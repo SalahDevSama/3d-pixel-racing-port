@@ -1,0 +1,9 @@
+ITA	Italiano
+ENG	English
+FRA	Français
+ARA	ﺔﻴﺑﺮﻌﻟﺍ
+SPA	Español
+POR	Português (Brasil)
+RUS	Русский
+CHI	中文
+JAP	日本語

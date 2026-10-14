@@ -1,0 +1,21 @@
+# Original game (shipped in releases, not in the repo)
+*.ipa
+3D_Pixel_Racing_1.1_ios_4.0/
+*.app/
+
+# Build outputs
+linux_port/build/
+linux_port/pixel_racing
+linux_port.tar.gz
+android_port/.gradle/
+android_port/build/
+android_port/app/build/
+android_port/app/.cxx/
+android_port/local.properties
+android_port/third_party/
+windows/
+dist/
+__pycache__/
+.vscode/
+android_port/keystore.properties
+linux_port/build-portable/

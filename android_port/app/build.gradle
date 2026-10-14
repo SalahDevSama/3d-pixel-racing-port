@@ -1,0 +1,90 @@
+apply plugin: 'com.android.application'
+
+// The extracted iOS game (executable + assets); packed into the APK and copied to the
+// app's internal storage on first launch.
+def gameApp = file("${rootDir}/../3D_Pixel_Racing_1.1_ios_4.0/Payload/3d_pixel_racing.app")
+def gameAssets = file("${buildDir}/gameassets")
+// extra languages (built from linux_port/lang/src by tools/make_lang.py)
+def langDir = file("${rootDir}/../linux_port/lang")
+// release signing key: android_port/keystore.properties (not in git); falls back to the debug key
+def keystoreProps = new Properties()
+def keystoreFile = file("${rootDir}/keystore.properties")
+if (keystoreFile.exists()) keystoreFile.withInputStream { keystoreProps.load(it) }
+
+android {
+    namespace "org.libsdl.app"
+    compileSdkVersion 34
+    ndkVersion "27.2.12479018"
+    defaultConfig {
+        applicationId "com.recomp.pixelracing"
+        minSdkVersion 24
+        targetSdkVersion 34
+        versionCode 1
+        versionName "1.0"
+        externalNativeBuild {
+            cmake {
+                arguments "-DANDROID_STL=c++_static", "-DGAME_APP=${gameApp}"
+                abiFilters 'arm64-v8a', 'x86_64'
+            }
+        }
+    }
+    signingConfigs {
+        release {
+            if (keystoreFile.exists()) {
+                storeFile file(keystoreProps['storeFile'])
+                storePassword keystoreProps['storePassword']
+                keyAlias keystoreProps['keyAlias']
+                keyPassword keystoreProps['keyPassword']
+            }
+        }
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            signingConfig keystoreFile.exists() ? signingConfigs.release : signingConfigs.debug
+        }
+    }
+    externalNativeBuild {
+        cmake {
+            path 'jni/CMakeLists.txt'
+            version '3.31.6'
+        }
+    }
+    sourceSets.main.assets.srcDirs += gameAssets
+    aaptOptions {
+        noCompress 'wav', 'bin'
+    }
+    lint {
+        abortOnError false
+    }
+}
+
+tasks.register('prepareGameAssets') {
+    inputs.dir gameApp
+    inputs.dir langDir
+    outputs.dir gameAssets
+    doLast {
+        delete gameAssets
+        def dst = new File(gameAssets, "gamepack")   // not "game": see android_setup in main.c
+        copy {
+            from(gameApp) {
+                exclude '**/*.nib', '_CodeSignature/**', 'en.lproj/**', 'SC_Info/**'
+            }
+            into dst
+        }
+        copy {
+            from(langDir) { include '*.txt', '*.ttf' }
+            into dst
+        }
+        def names = []
+        dst.eachFile(groovy.io.FileType.FILES) { names << it.name }
+        names.sort()
+        long total = 0
+        names.each { total += new File(dst, it).length() }
+        new File(dst, "manifest.txt").text = "2-${names.size()}-${total}\n" + names.join("\n") + "\n"
+    }
+}
+preBuild.dependsOn 'prepareGameAssets'
+
+dependencies {
+}

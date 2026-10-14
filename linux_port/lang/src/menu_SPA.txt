@@ -1,0 +1,67 @@
+Opciones
+Controles de teclado
+Controles de mando
+(no se detecta ningún mando)
+Idioma
+Imágenes por segundo
+Resolución
+Auto (sigue la ventana / la pantalla)
+Distancia de visión
+Original
+Interfaz 2D en pantallas anchas
+Estirada
+Centrada (3:2)
+Girar inclinando el teléfono
+Pantalla completa
+Ocultar botones táctiles (1, 2, +, ?)
+Desbloquear todo (circuitos, coches, pilotos)
+Configurar teclado
+Configurar mando
+Reanudar partida
+Salir del juego
+Sí
+No
+Pulsa una tecla…
+Pulsa un botón…
+Restablecer valores
+Atrás
+Toca una línea para cambiarla    Atrás o tocar fuera: cerrar
+Arriba/Abajo: elegir    Izquierda/Derecha: cambiar    Intro: aceptar    Esc / F10: cerrar
+Flechas: elegir    Intro: asignar    Supr: borrar    Esc: atrás
+Muestra más parte del circuito y aleja la niebla (incluida la del clima).
+El desbloqueo se guarda en la partida; desactivarlo restaura tu progreso real.
+Izquierda
+Derecha
+Arriba (menús)
+Abajo (menús)
+Acelerar / Aceptar (2)
+Frenar / Atrás (1)
+Turbo
+Pausa (+)
+Ayuda (?)
+Botón A
+Botón B
+Botón -
+Menú de opciones
+Back/Select
+Guide
+Start
+Clic stick izquierdo
+Clic stick derecho
+Cruceta arriba
+Cruceta abajo
+Cruceta izquierda
+Cruceta derecha
+Stick izquierdo X
+Stick izquierdo Y
+Stick derecho X
+Stick derecho Y
+Eje
+Stick izquierdo a la derecha
+Stick izquierdo a la izquierda
+Stick izquierdo abajo
+Stick izquierdo arriba
+Stick derecho a la derecha
+Stick derecho a la izquierda
+Stick derecho abajo
+Stick derecho arriba

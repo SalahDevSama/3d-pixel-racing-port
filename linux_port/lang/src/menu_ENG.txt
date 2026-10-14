@@ -1,0 +1,67 @@
+Options
+Keyboard controls
+Gamepad controls
+(no gamepad detected)
+Language
+Frames per second
+Resolution
+Auto (follows the window / screen size)
+View distance
+Original
+2D interface on wide screens
+Stretched
+Centred (3:2)
+Steer by tilting the phone
+Fullscreen
+Hide the mobile HUD (1, 2, +, ?)
+Unlock everything (tracks, cars, drivers)
+Configure keyboard
+Configure gamepad
+Resume game
+Quit game
+On
+Off
+Press a key…
+Press a button…
+Reset to defaults
+Back
+Tap a line to change it    Back or tap outside: close
+Up/Down: select    Left/Right: change    Enter: confirm    Esc / F10: close
+Arrows: select    Enter: assign    Delete: clear    Esc: back
+Draws more of the track around you and pushes the fog back (weather fog included).
+Unlocks are written to the save file; turning it Off restores your real progress.
+Left
+Right
+Up (menus)
+Down (menus)
+Accelerate / Confirm (2)
+Brake / Back (1)
+Turbo
+Pause (+)
+Help (?)
+Button A
+Button B
+Button -
+Options menu
+Back/Select
+Guide
+Start
+Left stick click
+Right stick click
+D-pad up
+D-pad down
+D-pad left
+D-pad right
+Left stick X
+Left stick Y
+Right stick X
+Right stick Y
+Axis
+Left stick right
+Left stick left
+Left stick down
+Left stick up
+Right stick right
+Right stick left
+Right stick down
+Right stick up

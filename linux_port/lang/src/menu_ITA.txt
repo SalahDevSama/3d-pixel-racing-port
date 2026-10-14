@@ -1,0 +1,67 @@
+Opzioni
+Comandi tastiera
+Comandi controller
+(nessun controller rilevato)
+Lingua
+Fotogrammi al secondo
+Risoluzione
+Auto (segue la finestra / lo schermo)
+Distanza visiva
+Originale
+Interfaccia 2D su schermi larghi
+Allargata
+Centrata (3:2)
+Sterza inclinando il telefono
+Schermo intero
+Nascondi i tasti touch (1, 2, +, ?)
+Sblocca tutto (piste, auto, piloti)
+Configura tastiera
+Configura controller
+Riprendi
+Esci dal gioco
+Sì
+No
+Premi un tasto…
+Premi un pulsante…
+Ripristina predefiniti
+Indietro
+Tocca una riga per cambiarla    Indietro o tocca fuori: chiudi
+Su/Giù: scegli    Sinistra/Destra: cambia    Invio: conferma    Esc / F10: chiudi
+Frecce: scegli    Invio: assegna    Canc: cancella    Esc: indietro
+Mostra una parte più ampia della pista e allontana la nebbia (meteo compreso).
+Lo sblocco viene scritto nel salvataggio; disattivarlo ripristina i tuoi veri progressi.
+Sinistra
+Destra
+Su (menu)
+Giù (menu)
+Accelera / Conferma (2)
+Frena / Indietro (1)
+Turbo
+Pausa (+)
+Aiuto (?)
+Pulsante A
+Pulsante B
+Pulsante -
+Menu opzioni
+Back/Select
+Guide
+Start
+Clic levetta sinistra
+Clic levetta destra
+Croce su
+Croce giù
+Croce sinistra
+Croce destra
+Levetta sinistra X
+Levetta sinistra Y
+Levetta destra X
+Levetta destra Y
+Asse
+Levetta sinistra a destra
+Levetta sinistra a sinistra
+Levetta sinistra giù
+Levetta sinistra su
+Levetta destra a destra
+Levetta destra a sinistra
+Levetta destra giù
+Levetta destra su

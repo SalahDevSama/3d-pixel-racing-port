@@ -1,0 +1,67 @@
+Options	Opções
+Keyboard controls	Controles do teclado
+Gamepad controls	Controles do controle
+(no gamepad detected)	(nenhum controle detectado)
+Language	Idioma
+Frames per second	Quadros por segundo
+Resolution	Resolução
+Auto (follows the window / screen size)	Auto (segue a janela / a tela)
+View distance	Distância de visão
+Original	Original
+2D interface on wide screens	Interface 2D em telas largas
+Stretched	Esticada
+Centred (3:2)	Centralizada (3:2)
+Steer by tilting the phone	Virar inclinando o celular
+Fullscreen	Tela cheia
+Hide the mobile HUD (1, 2, +, ?)	Ocultar botões de toque (1, 2, +, ?)
+Unlock everything (tracks, cars, drivers)	Desbloquear tudo (pistas, carros, pilotos)
+Configure keyboard	Configurar teclado
+Configure gamepad	Configurar controle
+Resume game	Voltar ao jogo
+Quit game	Sair do jogo
+On	Sim
+Off	Não
+Press a key…	Pressione uma tecla…
+Press a button…	Pressione um botão…
+Reset to defaults	Restaurar padrões
+Back	Voltar
+Tap a line to change it    Back or tap outside: close	Toque numa linha para mudá-la    Voltar ou tocar fora: fechar
+Up/Down: select    Left/Right: change    Enter: confirm    Esc / F10: close	Cima/Baixo: escolher    Esquerda/Direita: mudar    Enter: confirmar    Esc / F10: fechar
+Arrows: select    Enter: assign    Delete: clear    Esc: back	Setas: escolher    Enter: atribuir    Delete: apagar    Esc: voltar
+Draws more of the track around you and pushes the fog back (weather fog included).	Mostra mais da pista e afasta a neblina (inclusive a do clima).
+Unlocks are written to the save file; turning it Off restores your real progress.	O desbloqueio é gravado no save; desativá-lo restaura seu progresso real.
+Left	Esquerda
+Right	Direita
+Up (menus)	Cima (menus)
+Down (menus)	Baixo (menus)
+Accelerate / Confirm (2)	Acelerar / Confirmar (2)
+Brake / Back (1)	Frear / Voltar (1)
+Turbo	Turbo
+Pause (+)	Pausa (+)
+Help (?)	Ajuda (?)
+Button A	Botão A
+Button B	Botão B
+Button -	Botão -
+Options menu	Menu de opções
+Back/Select	Back/Select
+Guide	Guide
+Start	Start
+Left stick click	Clique analógico esquerdo
+Right stick click	Clique analógico direito
+D-pad up	Direcional cima
+D-pad down	Direcional baixo
+D-pad left	Direcional esquerda
+D-pad right	Direcional direita
+Left stick X	Analógico esquerdo X
+Left stick Y	Analógico esquerdo Y
+Right stick X	Analógico direito X
+Right stick Y	Analógico direito Y
+Axis	Eixo
+Left stick right	Analógico esquerdo à direita
+Left stick left	Analógico esquerdo à esquerda
+Left stick down	Analógico esquerdo para baixo
+Left stick up	Analógico esquerdo para cima
+Right stick right	Analógico direito à direita
+Right stick left	Analógico direito à esquerda
+Right stick down	Analógico direito para baixo
+Right stick up	Analógico direito para cima

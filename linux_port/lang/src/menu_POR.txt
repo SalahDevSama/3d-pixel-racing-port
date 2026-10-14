@@ -1,0 +1,67 @@
+Opções
+Controles do teclado
+Controles do controle
+(nenhum controle detectado)
+Idioma
+Quadros por segundo
+Resolução
+Auto (segue a janela / a tela)
+Distância de visão
+Original
+Interface 2D em telas largas
+Esticada
+Centralizada (3:2)
+Virar inclinando o celular
+Tela cheia
+Ocultar botões de toque (1, 2, +, ?)
+Desbloquear tudo (pistas, carros, pilotos)
+Configurar teclado
+Configurar controle
+Voltar ao jogo
+Sair do jogo
+Sim
+Não
+Pressione uma tecla…
+Pressione um botão…
+Restaurar padrões
+Voltar
+Toque numa linha para mudá-la    Voltar ou tocar fora: fechar
+Cima/Baixo: escolher    Esquerda/Direita: mudar    Enter: confirmar    Esc / F10: fechar
+Setas: escolher    Enter: atribuir    Delete: apagar    Esc: voltar
+Mostra mais da pista e afasta a neblina (inclusive a do clima).
+O desbloqueio é gravado no save; desativá-lo restaura seu progresso real.
+Esquerda
+Direita
+Cima (menus)
+Baixo (menus)
+Acelerar / Confirmar (2)
+Frear / Voltar (1)
+Turbo
+Pausa (+)
+Ajuda (?)
+Botão A
+Botão B
+Botão -
+Menu de opções
+Back/Select
+Guide
+Start
+Clique analógico esquerdo
+Clique analógico direito
+Direcional cima
+Direcional baixo
+Direcional esquerda
+Direcional direita
+Analógico esquerdo X
+Analógico esquerdo Y
+Analógico direito X
+Analógico direito Y
+Eixo
+Analógico esquerdo à direita
+Analógico esquerdo à esquerda
+Analógico esquerdo para baixo
+Analógico esquerdo para cima
+Analógico direito à direita
+Analógico direito à esquerda
+Analógico direito para baixo
+Analógico direito para cima

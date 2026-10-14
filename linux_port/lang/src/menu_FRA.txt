@@ -1,0 +1,67 @@
+Options
+Commandes clavier
+Commandes manette
+(aucune manette détectée)
+Langue
+Images par seconde
+Résolution
+Auto (suit la fenêtre / l'écran)
+Distance d'affichage
+Originale
+Interface 2D sur écran large
+Étirée
+Centrée (3:2)
+Tourner en inclinant le téléphone
+Plein écran
+Masquer les boutons tactiles (1, 2, +, ?)
+Tout débloquer (circuits, voitures, pilotes)
+Configurer le clavier
+Configurer la manette
+Reprendre la partie
+Quitter le jeu
+Oui
+Non
+Appuyez sur une touche…
+Appuyez sur un bouton…
+Rétablir par défaut
+Retour
+Touchez une ligne pour la changer    Retour ou toucher à côté : fermer
+Haut/Bas : choisir    Gauche/Droite : changer    Entrée : valider    Échap / F10 : fermer
+Flèches : choisir    Entrée : assigner    Suppr : effacer    Échap : retour
+Affiche une plus grande partie du circuit et repousse le brouillard (météo comprise).
+Le déblocage est écrit dans la sauvegarde ; le désactiver rétablit votre vraie progression.
+Gauche
+Droite
+Haut (menus)
+Bas (menus)
+Accélérer / Valider (2)
+Freiner / Retour (1)
+Turbo
+Pause (+)
+Aide (?)
+Bouton A
+Bouton B
+Bouton -
+Menu des options
+Back/Select
+Guide
+Start
+Clic stick gauche
+Clic stick droit
+Croix haut
+Croix bas
+Croix gauche
+Croix droite
+Stick gauche X
+Stick gauche Y
+Stick droit X
+Stick droit Y
+Axe
+Stick gauche à droite
+Stick gauche à gauche
+Stick gauche en bas
+Stick gauche en haut
+Stick droit à droite
+Stick droit à gauche
+Stick droit en bas
+Stick droit en haut

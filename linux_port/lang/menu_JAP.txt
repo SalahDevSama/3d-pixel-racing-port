@@ -1,0 +1,67 @@
+Options	オプション
+Keyboard controls	キーボード設定
+Gamepad controls	コントローラー設定
+(no gamepad detected)	（コントローラーが見つかりません）
+Language	言語
+Frames per second	フレームレート
+Resolution	解像度
+Auto (follows the window / screen size)	自動（ウィンドウ / 画面に合わせる）
+View distance	描画距離
+Original	オリジナル
+2D interface on wide screens	ワイド画面での 2D 表示
+Stretched	引き伸ばし
+Centred (3:2)	中央 (3:2)
+Steer by tilting the phone	スマホを傾けて操作
+Fullscreen	フルスクリーン
+Hide the mobile HUD (1, 2, +, ?)	タッチボタンを隠す (1, 2, +, ?)
+Unlock everything (tracks, cars, drivers)	すべて解放（コース、車、ドライバー）
+Configure keyboard	キーボードを設定
+Configure gamepad	コントローラーを設定
+Resume game	ゲームに戻る
+Quit game	ゲームを終了
+On	オン
+Off	オフ
+Press a key…	キーを押してください…
+Press a button…	ボタンを押してください…
+Reset to defaults	初期設定に戻す
+Back	戻る
+Tap a line to change it    Back or tap outside: close	行をタップして変更    戻るか外側をタップ：閉じる
+Up/Down: select    Left/Right: change    Enter: confirm    Esc / F10: close	上/下：選択    左/右：変更    Enter：決定    Esc / F10：閉じる
+Arrows: select    Enter: assign    Delete: clear    Esc: back	矢印：選択    Enter：割り当て    Delete：消去    Esc：戻る
+Draws more of the track around you and pushes the fog back (weather fog included).	コースをより遠くまで表示し、霧を遠ざけます（天候の霧も含む）。
+Unlocks are written to the save file; turning it Off restores your real progress.	解放はセーブデータに書き込まれます。オフにすると本来の進行状況に戻ります。
+Left	左
+Right	右
+Up (menus)	上（メニュー）
+Down (menus)	下（メニュー）
+Accelerate / Confirm (2)	アクセル / 決定 (2)
+Brake / Back (1)	ブレーキ / 戻る (1)
+Turbo	ターボ
+Pause (+)	ポーズ (+)
+Help (?)	ヘルプ (?)
+Button A	ボタン A
+Button B	ボタン B
+Button -	ボタン -
+Options menu	オプションメニュー
+Back/Select	Back/Select
+Guide	Guide
+Start	Start
+Left stick click	左スティック押し込み
+Right stick click	右スティック押し込み
+D-pad up	十字キー上
+D-pad down	十字キー下
+D-pad left	十字キー左
+D-pad right	十字キー右
+Left stick X	左スティック X
+Left stick Y	左スティック Y
+Right stick X	右スティック X
+Right stick Y	右スティック Y
+Axis	軸
+Left stick right	左スティック右
+Left stick left	左スティック左
+Left stick down	左スティック下
+Left stick up	左スティック上
+Right stick right	右スティック右
+Right stick left	右スティック左
+Right stick down	右スティック下
+Right stick up	右スティック上

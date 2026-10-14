@@ -1,0 +1,67 @@
+Options	Opzioni
+Keyboard controls	Comandi tastiera
+Gamepad controls	Comandi controller
+(no gamepad detected)	(nessun controller rilevato)
+Language	Lingua
+Frames per second	Fotogrammi al secondo
+Resolution	Risoluzione
+Auto (follows the window / screen size)	Auto (segue la finestra / lo schermo)
+View distance	Distanza visiva
+Original	Originale
+2D interface on wide screens	Interfaccia 2D su schermi larghi
+Stretched	Allargata
+Centred (3:2)	Centrata (3:2)
+Steer by tilting the phone	Sterza inclinando il telefono
+Fullscreen	Schermo intero
+Hide the mobile HUD (1, 2, +, ?)	Nascondi i tasti touch (1, 2, +, ?)
+Unlock everything (tracks, cars, drivers)	Sblocca tutto (piste, auto, piloti)
+Configure keyboard	Configura tastiera
+Configure gamepad	Configura controller
+Resume game	Riprendi
+Quit game	Esci dal gioco
+On	Sì
+Off	No
+Press a key…	Premi un tasto…
+Press a button…	Premi un pulsante…
+Reset to defaults	Ripristina predefiniti
+Back	Indietro
+Tap a line to change it    Back or tap outside: close	Tocca una riga per cambiarla    Indietro o tocca fuori: chiudi
+Up/Down: select    Left/Right: change    Enter: confirm    Esc / F10: close	Su/Giù: scegli    Sinistra/Destra: cambia    Invio: conferma    Esc / F10: chiudi
+Arrows: select    Enter: assign    Delete: clear    Esc: back	Frecce: scegli    Invio: assegna    Canc: cancella    Esc: indietro
+Draws more of the track around you and pushes the fog back (weather fog included).	Mostra una parte più ampia della pista e allontana la nebbia (meteo compreso).
+Unlocks are written to the save file; turning it Off restores your real progress.	Lo sblocco viene scritto nel salvataggio; disattivarlo ripristina i tuoi veri progressi.
+Left	Sinistra
+Right	Destra
+Up (menus)	Su (menu)
+Down (menus)	Giù (menu)
+Accelerate / Confirm (2)	Accelera / Conferma (2)
+Brake / Back (1)	Frena / Indietro (1)
+Turbo	Turbo
+Pause (+)	Pausa (+)
+Help (?)	Aiuto (?)
+Button A	Pulsante A
+Button B	Pulsante B
+Button -	Pulsante -
+Options menu	Menu opzioni
+Back/Select	Back/Select
+Guide	Guide
+Start	Start
+Left stick click	Clic levetta sinistra
+Right stick click	Clic levetta destra
+D-pad up	Croce su
+D-pad down	Croce giù
+D-pad left	Croce sinistra
+D-pad right	Croce destra
+Left stick X	Levetta sinistra X
+Left stick Y	Levetta sinistra Y
+Right stick X	Levetta destra X
+Right stick Y	Levetta destra Y
+Axis	Asse
+Left stick right	Levetta sinistra a destra
+Left stick left	Levetta sinistra a sinistra
+Left stick down	Levetta sinistra giù
+Left stick up	Levetta sinistra su
+Right stick right	Levetta destra a destra
+Right stick left	Levetta destra a sinistra
+Right stick down	Levetta destra giù
+Right stick up	Levetta destra su

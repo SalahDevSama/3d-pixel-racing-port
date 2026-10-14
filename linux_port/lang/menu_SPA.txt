@@ -1,0 +1,67 @@
+Options	Opciones
+Keyboard controls	Controles de teclado
+Gamepad controls	Controles de mando
+(no gamepad detected)	(no se detecta ningún mando)
+Language	Idioma
+Frames per second	Imágenes por segundo
+Resolution	Resolución
+Auto (follows the window / screen size)	Auto (sigue la ventana / la pantalla)
+View distance	Distancia de visión
+Original	Original
+2D interface on wide screens	Interfaz 2D en pantallas anchas
+Stretched	Estirada
+Centred (3:2)	Centrada (3:2)
+Steer by tilting the phone	Girar inclinando el teléfono
+Fullscreen	Pantalla completa
+Hide the mobile HUD (1, 2, +, ?)	Ocultar botones táctiles (1, 2, +, ?)
+Unlock everything (tracks, cars, drivers)	Desbloquear todo (circuitos, coches, pilotos)
+Configure keyboard	Configurar teclado
+Configure gamepad	Configurar mando
+Resume game	Reanudar partida
+Quit game	Salir del juego
+On	Sí
+Off	No
+Press a key…	Pulsa una tecla…
+Press a button…	Pulsa un botón…
+Reset to defaults	Restablecer valores
+Back	Atrás
+Tap a line to change it    Back or tap outside: close	Toca una línea para cambiarla    Atrás o tocar fuera: cerrar
+Up/Down: select    Left/Right: change    Enter: confirm    Esc / F10: close	Arriba/Abajo: elegir    Izquierda/Derecha: cambiar    Intro: aceptar    Esc / F10: cerrar
+Arrows: select    Enter: assign    Delete: clear    Esc: back	Flechas: elegir    Intro: asignar    Supr: borrar    Esc: atrás
+Draws more of the track around you and pushes the fog back (weather fog included).	Muestra más parte del circuito y aleja la niebla (incluida la del clima).
+Unlocks are written to the save file; turning it Off restores your real progress.	El desbloqueo se guarda en la partida; desactivarlo restaura tu progreso real.
+Left	Izquierda
+Right	Derecha
+Up (menus)	Arriba (menús)
+Down (menus)	Abajo (menús)
+Accelerate / Confirm (2)	Acelerar / Aceptar (2)
+Brake / Back (1)	Frenar / Atrás (1)
+Turbo	Turbo
+Pause (+)	Pausa (+)
+Help (?)	Ayuda (?)
+Button A	Botón A
+Button B	Botón B
+Button -	Botón -
+Options menu	Menú de opciones
+Back/Select	Back/Select
+Guide	Guide
+Start	Start
+Left stick click	Clic stick izquierdo
+Right stick click	Clic stick derecho
+D-pad up	Cruceta arriba
+D-pad down	Cruceta abajo
+D-pad left	Cruceta izquierda
+D-pad right	Cruceta derecha
+Left stick X	Stick izquierdo X
+Left stick Y	Stick izquierdo Y
+Right stick X	Stick derecho X
+Right stick Y	Stick derecho Y
+Axis	Eje
+Left stick right	Stick izquierdo a la derecha
+Left stick left	Stick izquierdo a la izquierda
+Left stick down	Stick izquierdo abajo
+Left stick up	Stick izquierdo arriba
+Right stick right	Stick derecho a la derecha
+Right stick left	Stick derecho a la izquierda
+Right stick down	Stick derecho abajo
+Right stick up	Stick derecho arriba

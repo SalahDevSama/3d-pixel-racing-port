@@ -1,0 +1,114 @@
+Italiano
+Sett.1 Ok!
+Sett.2 Ok!
+Tempo giro
+Caricamento....
+Risultati finali
+Gara
+Risultati
+Scegli pista
+Neve
+Pioggia
+Nebbia
+Notte
+Sole
+Normale
+Inverso
+3D Pixel Racing
+Campionato
+Gara singola
+Cattura bandiera
+Inseguimento
+Contro il tempo
+Menu principale
+Musica in gara
+ON
+OFF
+Piloti
+Solo giocatori
+Giocatori + CPU
+Giri gara
+Giri
+Difficoltà
+Facile
+Medio
+Difficile
+Pit stop in gara
+Impostazioni
+Un giocatore
+Due giocatori
+Tre giocatori
+Quattro giocatori
+Numero giocatori
+Giocatore
+Scegli pilota
+Scegli cambio
+Manuale
+Automatico
+Inserisci nome
+Cacciatore
+Preda
+Scegli auto
+Scegli colore
+Indietro
+Sett.
+Giro completato!
+SENSO VIETATO!
+Distanza
+Record
+<BOX>
+o
+o
+o
+o
+tempo
+DANNI
+URTI
+salvo
+preso
+preda
+o
+o
+o
+o
+Mph
+Classifica
+Nuova pista sbloccata!
+Nuova auto sbloccata!
+Nuovo pilota sbloccato!
+Avanti
+Scegli direzione
+Scegli meteo
+Scegli pista
+Bloccato!
+Non disponibile
+in Inseguimento
+velocità
+aderenza
+guida
+Abbandonare?
+Continua
+Vedi replay
+VIA!
+Criminale fuggito!
+Pareggio!
+Hai vinto!
+Preso!
+Inizia
+Scegli
+Cacciatore - Preda
+Scegli lettera
+Scegli
+Cambia posizione
+Uscire dal replay?
+Punteggio
+Italia
+U.S.A.
+Brasile
+Inghilterra
+Isole Salomone
+Thailandia
+Giappone
+Egitto
+Olanda
+Cina

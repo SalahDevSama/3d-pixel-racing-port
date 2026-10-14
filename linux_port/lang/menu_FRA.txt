@@ -1,0 +1,67 @@
+Options	Options
+Keyboard controls	Commandes clavier
+Gamepad controls	Commandes manette
+(no gamepad detected)	(aucune manette détectée)
+Language	Langue
+Frames per second	Images par seconde
+Resolution	Résolution
+Auto (follows the window / screen size)	Auto (suit la fenêtre / l'écran)
+View distance	Distance d'affichage
+Original	Originale
+2D interface on wide screens	Interface 2D sur écran large
+Stretched	Étirée
+Centred (3:2)	Centrée (3:2)
+Steer by tilting the phone	Tourner en inclinant le téléphone
+Fullscreen	Plein écran
+Hide the mobile HUD (1, 2, +, ?)	Masquer les boutons tactiles (1, 2, +, ?)
+Unlock everything (tracks, cars, drivers)	Tout débloquer (circuits, voitures, pilotes)
+Configure keyboard	Configurer le clavier
+Configure gamepad	Configurer la manette
+Resume game	Reprendre la partie
+Quit game	Quitter le jeu
+On	Oui
+Off	Non
+Press a key…	Appuyez sur une touche…
+Press a button…	Appuyez sur un bouton…
+Reset to defaults	Rétablir par défaut
+Back	Retour
+Tap a line to change it    Back or tap outside: close	Touchez une ligne pour la changer    Retour ou toucher à côté : fermer
+Up/Down: select    Left/Right: change    Enter: confirm    Esc / F10: close	Haut/Bas : choisir    Gauche/Droite : changer    Entrée : valider    Échap / F10 : fermer
+Arrows: select    Enter: assign    Delete: clear    Esc: back	Flèches : choisir    Entrée : assigner    Suppr : effacer    Échap : retour
+Draws more of the track around you and pushes the fog back (weather fog included).	Affiche une plus grande partie du circuit et repousse le brouillard (météo comprise).
+Unlocks are written to the save file; turning it Off restores your real progress.	Le déblocage est écrit dans la sauvegarde ; le désactiver rétablit votre vraie progression.
+Left	Gauche
+Right	Droite
+Up (menus)	Haut (menus)
+Down (menus)	Bas (menus)
+Accelerate / Confirm (2)	Accélérer / Valider (2)
+Brake / Back (1)	Freiner / Retour (1)
+Turbo	Turbo
+Pause (+)	Pause (+)
+Help (?)	Aide (?)
+Button A	Bouton A
+Button B	Bouton B
+Button -	Bouton -
+Options menu	Menu des options
+Back/Select	Back/Select
+Guide	Guide
+Start	Start
+Left stick click	Clic stick gauche
+Right stick click	Clic stick droit
+D-pad up	Croix haut
+D-pad down	Croix bas
+D-pad left	Croix gauche
+D-pad right	Croix droite
+Left stick X	Stick gauche X
+Left stick Y	Stick gauche Y
+Right stick X	Stick droit X
+Right stick Y	Stick droit Y
+Axis	Axe
+Left stick right	Stick gauche à droite
+Left stick left	Stick gauche à gauche
+Left stick down	Stick gauche en bas
+Left stick up	Stick gauche en haut
+Right stick right	Stick droit à droite
+Right stick left	Stick droit à gauche
+Right stick down	Stick droit en bas
+Right stick up	Stick droit en haut

@@ -1,0 +1,67 @@
+Options	Настройки
+Keyboard controls	Управление: клавиатура
+Gamepad controls	Управление: геймпад
+(no gamepad detected)	(геймпад не найден)
+Language	Язык
+Frames per second	Кадров в секунду
+Resolution	Разрешение
+Auto (follows the window / screen size)	Авто (по окну / экрану)
+View distance	Дальность обзора
+Original	Исходная
+2D interface on wide screens	2D-интерфейс на широком экране
+Stretched	Растянут
+Centred (3:2)	По центру (3:2)
+Steer by tilting the phone	Руль наклоном телефона
+Fullscreen	Полный экран
+Hide the mobile HUD (1, 2, +, ?)	Скрыть сенсорные кнопки (1, 2, +, ?)
+Unlock everything (tracks, cars, drivers)	Открыть всё (трассы, машины, гонщики)
+Configure keyboard	Настроить клавиатуру
+Configure gamepad	Настроить геймпад
+Resume game	Продолжить игру
+Quit game	Выйти из игры
+On	Вкл
+Off	Выкл
+Press a key…	Нажмите клавишу…
+Press a button…	Нажмите кнопку…
+Reset to defaults	Сбросить по умолчанию
+Back	Назад
+Tap a line to change it    Back or tap outside: close	Коснитесь строки, чтобы изменить    Назад или касание снаружи: закрыть
+Up/Down: select    Left/Right: change    Enter: confirm    Esc / F10: close	Вверх/Вниз: выбор    Влево/Вправо: изменить    Enter: подтвердить    Esc / F10: закрыть
+Arrows: select    Enter: assign    Delete: clear    Esc: back	Стрелки: выбор    Enter: назначить    Delete: очистить    Esc: назад
+Draws more of the track around you and pushes the fog back (weather fog included).	Показывает больше трассы и отодвигает туман (включая погодный).
+Unlocks are written to the save file; turning it Off restores your real progress.	Открытия записываются в сохранение; выключение возвращает ваш настоящий прогресс.
+Left	Влево
+Right	Вправо
+Up (menus)	Вверх (меню)
+Down (menus)	Вниз (меню)
+Accelerate / Confirm (2)	Газ / Подтвердить (2)
+Brake / Back (1)	Тормоз / Назад (1)
+Turbo	Турбо
+Pause (+)	Пауза (+)
+Help (?)	Помощь (?)
+Button A	Кнопка A
+Button B	Кнопка B
+Button -	Кнопка -
+Options menu	Меню настроек
+Back/Select	Back/Select
+Guide	Guide
+Start	Start
+Left stick click	Нажатие левого стика
+Right stick click	Нажатие правого стика
+D-pad up	Крестовина вверх
+D-pad down	Крестовина вниз
+D-pad left	Крестовина влево
+D-pad right	Крестовина вправо
+Left stick X	Левый стик X
+Left stick Y	Левый стик Y
+Right stick X	Правый стик X
+Right stick Y	Правый стик Y
+Axis	Ось
+Left stick right	Левый стик вправо
+Left stick left	Левый стик влево
+Left stick down	Левый стик вниз
+Left stick up	Левый стик вверх
+Right stick right	Правый стик вправо
+Right stick left	Правый стик влево
+Right stick down	Правый стик вниз
+Right stick up	Правый стик вверх

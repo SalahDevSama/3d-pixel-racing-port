@@ -1,0 +1,114 @@
+Français
+Sect.1 OK!
+Sect.2 OK!
+Temps au tour
+Chargement....
+Résultats finaux
+Course
+Résultats
+Choix du circuit
+Neige
+Pluie
+Brouillard
+Nuit
+Soleil
+Normal
+Inversé
+3D Pixel Racing
+Championnat
+Course simple
+Capture du drapeau
+Poursuite
+Contre-la-montre
+Menu principal
+Musique en course
+ON
+OFF
+Pilotes
+Joueurs seuls
+Joueurs + CPU
+Tours de course
+Tours
+Difficulté
+Facile
+Moyen
+Difficile
+Arrêts aux stands
+Options
+Un joueur
+Deux joueurs
+Trois joueurs
+Quatre joueurs
+Nombre de joueurs
+Joueur
+Choix du pilote
+Choix de la boîte
+Manuelle
+Automatique
+Entrez votre nom
+Chasseur
+Cible
+Choix de la voiture
+Choix de la couleur
+Retour
+Sect.
+Tour terminé!
+MAUVAIS SENS!
+Distance
+Record
+<STAND>
+ER
+E
+E
+E
+temps
+DÉGÂTS
+CHOCS
+libre
+arrêté
+cible
+er
+e
+e
+e
+Mph
+Classement
+Circuit débloqué!
+Voiture débloquée!
+Pilote débloqué!
+Valider
+Choix du sens
+Choix de la météo
+Choix du circuit
+Verrouillé!
+Indisponible
+en Poursuite
+vitesse
+adhérence
+maniabilité
+Abandonner?
+Continuer
+Voir le replay
+PARTEZ!
+Criminel en fuite!
+Match nul!
+Victoire!
+Arrêté!
+Démarrer
+Choisir
+Chasseur - Cible
+Choix de la lettre
+Choisir
+Changer de place
+Quitter le replay?
+Score
+Italie
+U.S.A.
+Brésil
+Angleterre
+Îles Salomon
+Thaïlande
+Japon
+Égypte
+Hollande
+Chine

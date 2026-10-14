@@ -1,0 +1,67 @@
+Options	选项
+Keyboard controls	键盘控制
+Gamepad controls	手柄控制
+(no gamepad detected)	（未检测到手柄）
+Language	语言
+Frames per second	每秒帧数
+Resolution	分辨率
+Auto (follows the window / screen size)	自动（跟随窗口 / 屏幕）
+View distance	视距
+Original	原始
+2D interface on wide screens	宽屏上的 2D 界面
+Stretched	拉伸
+Centred (3:2)	居中 (3:2)
+Steer by tilting the phone	倾斜手机转向
+Fullscreen	全屏
+Hide the mobile HUD (1, 2, +, ?)	隐藏触屏按钮 (1, 2, +, ?)
+Unlock everything (tracks, cars, drivers)	全部解锁（赛道、赛车、车手）
+Configure keyboard	设置键盘
+Configure gamepad	设置手柄
+Resume game	继续游戏
+Quit game	退出游戏
+On	开
+Off	关
+Press a key…	请按一个键…
+Press a button…	请按一个按钮…
+Reset to defaults	恢复默认
+Back	返回
+Tap a line to change it    Back or tap outside: close	点击一行进行更改    返回或点击外部：关闭
+Up/Down: select    Left/Right: change    Enter: confirm    Esc / F10: close	上/下：选择    左/右：更改    Enter：确认    Esc / F10：关闭
+Arrows: select    Enter: assign    Delete: clear    Esc: back	方向键：选择    Enter：设定    Delete：清除    Esc：返回
+Draws more of the track around you and pushes the fog back (weather fog included).	显示更多赛道并推远雾气（包括天气雾）。
+Unlocks are written to the save file; turning it Off restores your real progress.	解锁会写入存档；关闭后恢复你真实的进度。
+Left	左
+Right	右
+Up (menus)	上（菜单）
+Down (menus)	下（菜单）
+Accelerate / Confirm (2)	加速 / 确认 (2)
+Brake / Back (1)	刹车 / 返回 (1)
+Turbo	涡轮
+Pause (+)	暂停 (+)
+Help (?)	帮助 (?)
+Button A	按钮 A
+Button B	按钮 B
+Button -	按钮 -
+Options menu	选项菜单
+Back/Select	Back/Select
+Guide	Guide
+Start	Start
+Left stick click	按下左摇杆
+Right stick click	按下右摇杆
+D-pad up	十字键上
+D-pad down	十字键下
+D-pad left	十字键左
+D-pad right	十字键右
+Left stick X	左摇杆 X
+Left stick Y	左摇杆 Y
+Right stick X	右摇杆 X
+Right stick Y	右摇杆 Y
+Axis	轴
+Left stick right	左摇杆向右
+Left stick left	左摇杆向左
+Left stick down	左摇杆向下
+Left stick up	左摇杆向上
+Right stick right	右摇杆向右
+Right stick left	右摇杆向左
+Right stick down	右摇杆向下
+Right stick up	右摇杆向上

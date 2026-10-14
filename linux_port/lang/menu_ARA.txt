@@ -1,0 +1,67 @@
+Options	ﺕﺍﺭﺎﻴﺨﻟﺍ
+Keyboard controls	ﺢﻴﺗﺎﻔﻤﻟﺍ ﺔﺣﻮﻟ ﺭﺍﺭﺯﺃ
+Gamepad controls	ﻢﻜﺤﺘﻟﺍ ﻉﺍﺭﺫ ﺭﺍﺭﺯﺃ
+(no gamepad detected)	(ﻢﻜﺤﺗ ﻉﺍﺭﺫ ﻰﻠﻋ ﺭﻮﺜﻌﻟﺍ ﻢﺘﻳ ﻢﻟ)
+Language	ﺔﻐﻠﻟﺍ
+Frames per second	ﺔﻴﻧﺎﺜﻟﺍ ﻲﻓ ﺕﺍﺭﺎﻃﻹﺍ
+Resolution	ﺔﻗﺪﻟﺍ
+Auto (follows the window / screen size)	(ﺔﺷﺎﺸﻟﺍ / ﺓﺬﻓﺎﻨﻟﺍ ﺐﺴﺣ) ﻲﺋﺎﻘﻠﺗ
+View distance	ﺔﻳﺅﺮﻟﺍ ﺔﻓﺎﺴﻣ
+Original	ﺔﻴﻠﺻﻷﺍ
+2D interface on wide screens	ﺔﻀﻳﺮﻌﻟﺍ ﺕﺎﺷﺎﺸﻟﺍ ﻰﻠﻋ 2D ﺔﻬﺟﺍﻭ
+Stretched	ﺓﺪﺘﻤﻣ
+Centred (3:2)	(3:2) ﻂﺳﻮﻟﺍ ﻲﻓ
+Steer by tilting the phone	ﻒﺗﺎﻬﻟﺍ ﺔﻟﺎﻣﺈﺑ ﻪﻴﺟﻮﺘﻟﺍ
+Fullscreen	ﺔﺷﺎﺸﻟﺍ ﺀﻠﻣ
+Hide the mobile HUD (1, 2, +, ?)	(? ,+ ,2 ,1) ﺲﻤﻠﻟﺍ ﺭﺍﺭﺯﺃ ﺀﺎﻔﺧﺇ
+Unlock everything (tracks, cars, drivers)	(ﻥﻮﻘﺋﺎﺴﻟﺍ ،ﺕﺍﺭﺎﻴﺴﻟﺍ ،ﺕﺎﺒﻠﺤﻟﺍ) ﺀﻴﺷ ﻞﻛ ﺢﺘﻓ
+Configure keyboard	ﺢﻴﺗﺎﻔﻤﻟﺍ ﺔﺣﻮﻟ ﺩﺍﺪﻋﺇ
+Configure gamepad	ﻢﻜﺤﺘﻟﺍ ﻉﺍﺭﺫ ﺩﺍﺪﻋﺇ
+Resume game	ﺐﻌﻠﻟﺍ ﺔﻌﺑﺎﺘﻣ
+Quit game	ﺔﺒﻌﻠﻟﺍ ﻦﻣ ﺝﻭﺮﺨﻟﺍ
+On	ﻞﻴﻐﺸﺗ
+Off	ﻑﺎﻘﻳﺇ
+Press a key…	…ﺡﺎﺘﻔﻣ ﻰﻠﻋ ﻂﻐﺿﺍ
+Press a button…	…ﺭﺯ ﻰﻠﻋ ﻂﻐﺿﺍ
+Reset to defaults	ﺔﻴﺿﺍﺮﺘﻓﻻﺍ ﺕﺍﺩﺍﺪﻋﻹﺍ ﺓﺩﺎﻌﺘﺳﺍ
+Back	ﻉﻮﺟﺭ
+Tap a line to change it    Back or tap outside: close	ﻕﻼﻏﺇ :ﺎﺟﺭﺎﺧ ﺲﻤﻟﺍ ﻭﺃ ﻉﻮﺟﺭ    ﻩﺮﻴﻴﻐﺘﻟ ﺍﺮﻄﺳ ﺲﻤﻟﺍ
+Up/Down: select    Left/Right: change    Enter: confirm    Esc / F10: close	ﻕﻼﻏﺇ :F10 / Esc    ﺪﻴﻛﺄﺗ :Enter    ﺮﻴﻴﻐﺗ :ﻦﻴﻤﻳ/ﺭﺎﺴﻳ    ﺭﺎﻴﺘﺧﺍ :ﻞﻔﺳﺃ/ﻰﻠﻋﺃ
+Arrows: select    Enter: assign    Delete: clear    Esc: back	ﻉﻮﺟﺭ :Esc    ﺢﺴﻣ :Delete    ﻦﻴﻴﻌﺗ :Enter    ﺭﺎﻴﺘﺧﺍ :ﻢﻬﺳﻷﺍ
+Draws more of the track around you and pushes the fog back (weather fog included).	.(ﺲﻘﻄﻟﺍ ﺏﺎﺒﺿ ﻪﻴﻓ ﺎﻤﺑ) ﺏﺎﺒﻀﻟﺍ ﺪﻌﺒﻳﻭ ﺔﺒﻠﺤﻟﺍ ﻦﻣ ﺮﺒﻛﺃ ﺍﺀﺰﺟ ﺽﺮﻌﻳ
+Unlocks are written to the save file; turning it Off restores your real progress.	.ﻲﻘﻴﻘﺤﻟﺍ ﻚﻣﺪﻘﺗ ﺪﻴﻌﻳ ﻪﻓﺎﻘﻳﺇ ؛ﻆﻔﺤﻟﺍ ﻒﻠﻣ ﻲﻓ ﺢﺘﻔﻟﺍ ﺐﺘﻜﻳ
+Left	ﺭﺎﺴﻳ
+Right	ﻦﻴﻤﻳ
+Up (menus)	(ﻢﺋﺍﻮﻘﻟﺍ) ﻰﻠﻋﺃ
+Down (menus)	(ﻢﺋﺍﻮﻘﻟﺍ) ﻞﻔﺳﺃ
+Accelerate / Confirm (2)	(2) ﺪﻴﻛﺄﺗ / ﻉﺭﺎﺴﺗ
+Brake / Back (1)	(1) ﻉﻮﺟﺭ / ﻞﻣﺍﺮﻓ
+Turbo	ﻮﺑﺮﻴﺗ
+Pause (+)	(+) ﺖﻗﺆﻣ ﻑﺎﻘﻳﺇ
+Help (?)	(?) ﺓﺪﻋﺎﺴﻣ
+Button A	A ﺭﺰﻟﺍ
+Button B	B ﺭﺰﻟﺍ
+Button -	- ﺭﺰﻟﺍ
+Options menu	ﺕﺍﺭﺎﻴﺨﻟﺍ ﺔﻤﺋﺎﻗ
+Back/Select	Back/Select
+Guide	Guide
+Start	Start
+Left stick click	ﻯﺮﺴﻴﻟﺍ ﺎﺼﻌﻟﺍ ﻂﻐﺿ
+Right stick click	ﻰﻨﻤﻴﻟﺍ ﺎﺼﻌﻟﺍ ﻂﻐﺿ
+D-pad up	ﻰﻠﻋﺃ ﻢﻬﺳﻷﺍ
+D-pad down	ﻞﻔﺳﺃ ﻢﻬﺳﻷﺍ
+D-pad left	ﺭﺎﺴﻳ ﻢﻬﺳﻷﺍ
+D-pad right	ﻦﻴﻤﻳ ﻢﻬﺳﻷﺍ
+Left stick X	X ﻯﺮﺴﻴﻟﺍ ﺎﺼﻌﻟﺍ
+Left stick Y	Y ﻯﺮﺴﻴﻟﺍ ﺎﺼﻌﻟﺍ
+Right stick X	X ﻰﻨﻤﻴﻟﺍ ﺎﺼﻌﻟﺍ
+Right stick Y	Y ﻰﻨﻤﻴﻟﺍ ﺎﺼﻌﻟﺍ
+Axis	ﺭﻮﺤﻣ
+Left stick right	ﻦﻴﻤﻳ ﻯﺮﺴﻴﻟﺍ ﺎﺼﻌﻟﺍ
+Left stick left	ﺭﺎﺴﻳ ﻯﺮﺴﻴﻟﺍ ﺎﺼﻌﻟﺍ
+Left stick down	ﻞﻔﺳﺃ ﻯﺮﺴﻴﻟﺍ ﺎﺼﻌﻟﺍ
+Left stick up	ﻰﻠﻋﺃ ﻯﺮﺴﻴﻟﺍ ﺎﺼﻌﻟﺍ
+Right stick right	ﻦﻴﻤﻳ ﻰﻨﻤﻴﻟﺍ ﺎﺼﻌﻟﺍ
+Right stick left	ﺭﺎﺴﻳ ﻰﻨﻤﻴﻟﺍ ﺎﺼﻌﻟﺍ
+Right stick down	ﻞﻔﺳﺃ ﻰﻨﻤﻴﻟﺍ ﺎﺼﻌﻟﺍ
+Right stick up	ﻰﻠﻋﺃ ﻰﻨﻤﻴﻟﺍ ﺎﺼﻌﻟﺍ
